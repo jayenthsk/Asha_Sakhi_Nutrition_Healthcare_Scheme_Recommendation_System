@@ -1,0 +1,13 @@
+fastapi[all]
+uvicorn
+python-multipart
+python-dotenv
+qdrant-client
+langchain
+langchain-community
+PyPDF2
+tqdm
+openai
+transformers
+torch
+python-json-logger
